@@ -370,11 +370,22 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	
 	--swatch-var-6455:#000000;
 	
-	--swatch-var-706:#957FD0;
+	--swatch-var-706:#00FF00;
+	
+	--swatch-var-6382:#FF0080;
 	
 }
 
 
+
+/* Link colour styles */
+
+.ltc-6382{
+	color:var(--swatch-var-6382)!important;
+}
+.ltc-6382:hover{
+	color:#CC004D!important;
+}
 
 
 /* = Custom Bric Data
